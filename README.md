@@ -50,4 +50,4 @@ A fun command-line Rock Paper Scissors game where user plays against the compute
 
 ---
 ### Connect With Me
-[Add your LinkedIn link here]# Codesoft
+[https://www.linkedin.com/in/vaishnavi-rai-b42776423?utm_source=share_via&utm_content=profile&utm_medium=member_android]# Codesoft
